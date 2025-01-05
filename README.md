@@ -9,7 +9,7 @@ Hi, I'm Alexei! I'm passionate about technology, programming, and exploring inno
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RaleaAlexei&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaleaAlexei&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaleaAlexei&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=scss)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaleaAlexei&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=scss,css,less)
 
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AlexeiRalea) 
