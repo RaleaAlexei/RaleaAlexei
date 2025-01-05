@@ -1,13 +1,11 @@
-<img src="https://avatars.githubusercontent.com/u/71895829?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Ralea Alexei
 ### Software Engineer | Pentester
 
 Passionate software engineer with expertise in full-stack development, and pentesting.
 
 🛠️ **Tech Stack**
-- Advanced: `React` `TypeScript` `Node.js` `PHP`
-- Intermediate: `Docker`
+- Advanced: `TypeScript` `PHP` `C#` `JavaScript` `Node.JS`
+- Intermediate: `Docker` `Python`
 
 📊 **GitHub Stats**
 <p align="center">
@@ -18,3 +16,4 @@ Passionate software engineer with expertise in full-stack development, and pente
 🤝 **Connect With Me**
 - [GitHub](https://github.com/RaleaAlexei)
 - [LinkedIn](https://www.linkedin.com/in/ralea-alexei-a2340a268/)
+- [Telegram](https://t.me/hunt_ra)
